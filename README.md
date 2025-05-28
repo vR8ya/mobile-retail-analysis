@@ -54,7 +54,7 @@ As a data analyst at a global mobile phone retailer, your goal is to:
 
 ## 📁 Dataset Structure
 
-> 📁 Dataset provided as part of the **DataDNA May 2025 Challenge** by [Onyx Data](https://www.onyxdata.co.uk/datadna).  
+> 📁 Dataset provided as part of the **DataDNA May 2025 Challenge** by [Onyx Data](https://datadna.onyxdata.co.uk/challenges/).  
 > The data contains mobile sales records across multiple countries, used for analytical practice and visualization.
 
 
@@ -96,20 +96,26 @@ The analysis is based on a mobile phone sales dataset with the following schema:
 
 | Brand Insights | Customer Segmentation |
 |----------------|------------------------|
-| ![](images/brand-insight.jpeg) | ![](images/customer-segmentation.jpeg) |
+| ![](images/brand-insight.jpg) | ![](images/customer-segmentation.jpg) |
 
 | Sales Overview | Revenue Breakdown |
 |--------------------|----------------|
-| ![](images/sales-overview.jpeg) | ![](images/revenue-breakdown.jpeg) |
+| ![](images/sales-overview.jpg) | ![](images/revenue-breakdown.jpg) |
 
 ---
 
 ## 📂 Repository Contents
+
 mobile-retail-insights-2025/
+
 ├── README.md
+
 ├── Mobile Retailer Analysis.pdf
+
 ├── Mobile Retailer Analysis.pbix 
+
 ├── images/
+
 └── data/
 
 
